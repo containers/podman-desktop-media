@@ -8,7 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
-   sodipodi:docname="blank-template.svg"
+   sodipodi:docname="rectangle-vertical-template.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -51,22 +51,22 @@
        gridanglez="30"
        visible="true" />
     <sodipodi:guide
-       position="9.5249996,7.9374999"
+       position="8.9958329,7.9374999"
        orientation="0,-1"
        id="guide1"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="6.8791663,0.52916701"
+       position="9.5249996,0.52916701"
        orientation="0,-1"
        id="guide2"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="0.52916664,2.6458336"
+       position="1.5874999,5.2916667"
        orientation="1,0"
        id="guide3"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="7.9374996,2.1166669"
+       position="6.8791663,5.0270834"
        orientation="1,0"
        id="guide4"
        inkscape:locked="false" />
