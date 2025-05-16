@@ -1,0 +1,52 @@
+1
+00:00:0,000 --> 00:00:2,500
+RHEL VMs extension for Podman Desktop
+(demo on MacOS)
+
+2
+00:00:3,000 --> 00:00:12,000
+The RHEL VMs extension needs the
+Red Hat Authentication extension to be installed
+
+3
+00:00:15,000 --> 00:00:27,000
+You need to connect to your
+Red Hat account to download RHEL images
+
+4
+00:00:30,000 --> 00:00:40,000
+Now install the RHEL VMs extension
+
+5
+00:00:41,000 --> 00:00:55,000
+The extension installs a macadam
+executable on your system
+
+6
+00:00:59,000 --> 00:01:8,000
+Let's create our first RHEL VM...
+
+7
+00:01:10,000 --> 00:01:18,000
+The image is downloaded from the Red Hat portal
+
+8
+00:01:19,000 --> 00:01:26,000
+and the VM is created from this image
+
+9
+00:01:27,000 --> 00:01:33,000
+To help troubleshooting, you can see
+the machine with the macadam executable
+
+10
+00:01:35,000 --> 00:01:40,000
+We can now start the VM...
+
+11
+00:01:41,000 --> 00:01:48,000
+and access it from an integrated terminal
+
+12
+00:01:49,000 --> 00:01:50,000
+Enjoy running RHEL on your machine!
