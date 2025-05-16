@@ -1,0 +1,46 @@
+1
+00:00:0,000 --> 00:00:2,500
+Llama Stack integration into AI Lab
+
+2
+00:00:3,000 --> 00:00:7,000
+You need to have a few models
+downloaded on your machine
+
+3
+00:00:8,000 --> 00:00:11,000
+Start the Llama Stack with one click
+
+4
+00:00:12,000 --> 00:00:16,000
+This instance of Llama Stack is configured
+to use the AI Lab API as inference provider
+
+5
+00:00:17,000 --> 00:00:22,500
+The models you have downloaded are registered 
+automatically in the Llama Stack
+
+6
+00:00:24,000 --> 00:00:28,000
+and a Playground app is started in a separate container
+
+7
+00:00:30,000 --> 00:00:42,000
+In the Chat window of the Playground,
+select one model and send a prompt
+
+8
+00:00:46,500 --> 00:00:55,000
+An inference service for the selected model
+is started through the Stack
+to reply to the prompt
+
+9
+00:01:15,000 --> 00:02:15,000
+<b>PREVIEW</b>
+Recipe using Llama Stack Client
+
+10
+00:02:15,000 --> 00:02:17,000
+Happy app development with Llama Stack!
